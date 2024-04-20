@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Najeeb_Bros_DataBase</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/Najeeb-Brothers-Catalogue-2023.pdf</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Downloads/Najeeb-Brothers-Catalogue-2023.pdf</locationURI>
+		</link>
+		<link>
+			<name>src/Product.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/OneDrive/Desktop/NajeebBrosDatabase/Product.java</locationURI>
+		</link>
+		<link>
+			<name>src/ProductTable.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/OneDrive/Desktop/NajeebBrosDatabase/ProductTable.java</locationURI>
+		</link>
+		<link>
+			<name>src/black.jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/OneDrive/Documents/black.jpg</locationURI>
+		</link>
+		<link>
+			<name>src/najeeb.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/OneDrive/Pictures/najeeb.png</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
